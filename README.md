@@ -9,7 +9,7 @@ A beautiful login UI with Flutter
 1.  Clone this repository and cd into it
 2.  Launch Android emulator or IOS simulator
 3.  Run the app : `flutter run`
-4.  See the [tutorial](https://pusher.com/tutorials/login-ui-flutter) for useful notes
+4. (https://github.com/IdeaPrince-sudo/flutter/blob/master/Screenshot_20190617-224043.png) for useful notes
 
 ### Prerequisites
 
